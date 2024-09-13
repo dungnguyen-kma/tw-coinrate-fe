@@ -2,16 +2,26 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-to clone: 
-# git clone (https://github.com/dungnguyen-kma/tw-coinrate-fe.git)
+## to clone:
 
-To install:
-# yarn run dev
+```bash
+ git clone (https://github.com/dungnguyen-kma/tw-coinrate-fe.git)
+```
 
-To run in development env:
-# yarn run dev
+## To install:
 
-To build: 
-# yarn run build
+```bash
+yarn run dev
+```
 
+## To run in development env:
 
+```bash
+yarn run dev
+```
+
+## To build:
+
+```bash
+yarn run build
+```
